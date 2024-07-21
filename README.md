@@ -1,1 +1,1 @@
-Basics logical buliding questions
+Basic logical buliding questions
